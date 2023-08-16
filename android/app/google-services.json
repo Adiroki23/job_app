@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844032214866",
+    "project_id": "job-app-6f14a",
+    "storage_bucket": "job-app-6f14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844032214866:android:b432be2d5a5cdd60df1c8b",
+        "android_client_info": {
+          "package_name": "aditodoroki1.job_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844032214866-077shg9c7lf10gct650ura641d5k3388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeILys0-kWiPI_me7fx7cGE0SJyeSt9A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844032214866-077shg9c7lf10gct650ura641d5k3388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
